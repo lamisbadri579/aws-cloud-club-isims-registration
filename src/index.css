@@ -60,7 +60,10 @@
   .checkbox:not(:checked){
     @apply min-[320px]:hover:bg-white min-[980px]:hover:bg-purple1 min-[980px]:hover:border-white
   }
-
+  .socialmedia:hover{
+    filter: drop-shadow(1px 1px 3px orange);
+     transition: 1s ease;
+ }
 
 @keyframes slideInFromLeft {
   0% {

@@ -291,16 +291,16 @@ const validateStep4=()=>{
                 </p>
                 <div className="flex items-center gap-2">
                   <a href="https://www.facebook.com/profile.php?id=61558406757136" target="_blank">
-                    <img src={facebook} alt="facebook" className="h-6 w-6" />
+                    <img src={facebook} alt="facebook" className="h-6 w-6 socialmedia" />
                   </a>
                   <a href="https://www.instagram.com/awscc_isims?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
-                    <img src={instagram} alt="instagram" className="h-6 w-6" />
+                    <img src={instagram} alt="instagram" className="h-6 w-6 socialmedia" />
                   </a>
                   <a href="https://www.linkedin.com/company/aws-club-cloud-isims/" target="_blank">
-                    <img src={linkedIn} alt="linkedIn" className="h-6 w-6" />
+                    <img src={linkedIn} alt="linkedIn" className="h-6 w-6 socialmedia" />
                   </a>
                   <a href="https://www.meetup.com/aws-cloud-club-in-tunisia/" target="_blank">
-                    <img src={meetup} alt="meetup" className="h-6 w-6" />
+                    <img src={meetup} alt="meetup" className="h-6 w-6 socialmedia" />
                   </a>
                 </div>
               </div>
@@ -364,17 +364,17 @@ const validateStep4=()=>{
                   Visit us :
                 </p>
                 <div className="flex items-center gap-2">
-                  <a href="https://www.facebook.com/profile.php?id=61558406757136" target="_blank">
-                    <img src={facebook} alt="facebook" className="h-6 w-6" />
+                  <a  href="https://www.facebook.com/profile.php?id=61558406757136" target="_blank">
+                    <img src={facebook} alt="facebook" className="h-6 w-6 socialmedia" />
                   </a>
                   <a href="https://www.instagram.com/awscc_isims?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
-                    <img src={instagram} alt="instagram" className="h-6 w-6" />
+                    <img src={instagram} alt="instagram" className="h-6 w-6 socialmedia" />
                   </a>
                   <a href="https://www.linkedin.com/company/aws-club-cloud-isims/" target="_blank">
-                    <img src={linkedIn} alt="linkedIn" className="h-6 w-6" />
+                    <img src={linkedIn} alt="linkedIn" className="h-6 w-6 socialmedia" />
                   </a>
                   <a href="https://www.meetup.com/aws-cloud-club-in-tunisia/" target="_blank">
-                    <img src={meetup} alt="meetup" className="h-6 w-6" />
+                    <img src={meetup} alt="meetup" className="h-6 w-6 socialmedia" />
                   </a>
                 </div>
               </div>
