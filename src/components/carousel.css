@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper {
+  @apply rounded-xl min-[980px]:w-[480px] min-[1150px]:w-[540px] min-[1318px]:w-[570px] 2xl:w-[650px];
+}
+
+
+.swiper-slide img {
+ 
+  @apply flex min-[980px]:h-[580px] min-[980px]:w-full 2xl:h-[650px];
+}
+
+.swiper-pagination-bullet {
+  background-color: white;
+  width: 30px;
+  border-radius: 10px;
+}
