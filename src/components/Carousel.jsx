@@ -59,6 +59,8 @@ function Carousel({ imgs }) {
           <SwiperSlide key={index}>
             <img
               src={img.link}
+              loading="lazy"
+              
             />
           </SwiperSlide>
         ))}
