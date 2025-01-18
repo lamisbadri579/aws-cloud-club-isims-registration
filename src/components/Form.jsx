@@ -17,7 +17,7 @@ import img2 from '../assets/carousel/img2.png'
 import img3 from '../assets/carousel/img3.jpg'
 import img4 from '../assets/carousel/img4.jpg'
 import img5 from '../assets/carousel/img5.jpg'
-import img6 from '../assets/carousel/img6.jpg'
+//import img6 from '../assets/carousel/img6.jpg'
 
 function Form() {
   const [step, setStep] = useState(0);
@@ -207,7 +207,7 @@ const validateStep4=()=>{
     { link: img3 },
     {link:img4},
     {link:img5},
-    {link:img6}
+    //{link:img6}
     
   ];
 
